@@ -1,0 +1,5 @@
+h3
+numpy
+gdal
+pandas
+git+https://github.com/carboncredits/yirgacheffe
